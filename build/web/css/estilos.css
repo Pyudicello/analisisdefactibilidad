@@ -1,0 +1,154 @@
+
+label{
+    margin-bottom: 20 px;
+    font-family: initial;
+}
+
+#celda{
+    background-color: greenyellow;
+}
+
+input{
+    display: inline-block;
+    width: 250px;
+    margin-bottom: 20 px;
+}
+
+#input{
+    width: 80px;
+}
+
+#informacions{
+    font-family: inherit;
+}
+
+#respuesta{
+    font-family: monospace;
+    font-weight: bold;
+    color: green;
+    text-decoration: underline;
+    
+}
+
+header{
+    padding-top: 1 px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.navbar-text{
+    color: grey;
+}
+
+#dni{
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+#tipoDoc{
+    padding-right:  10px;
+}
+
+#nombre{
+    margin-bottom: 100px;
+}
+#form{
+    padding-left: 10 px;
+}
+
+#etiquetaActividad{
+    margin-right: 89px;
+
+}
+
+#etiquetaTipoTramite{
+    padding-right: 53px;
+    padding-bottom: 20px;
+}
+
+#imagen{
+    height: 70px;
+    background-color: #ffffff;
+
+}
+
+.nav-link{
+    font-family: Lato,sans-serif;
+
+    color: black;
+}
+#tramite{
+    height: 100px;
+    width: 100px;
+    padding-left: 60px;
+    padding-bottom: 25px;
+}
+
+#tituloAnalisis{
+    padding-top: 10 px;
+}
+
+.nav-link:hover{
+    color: red;
+    text-decoration: none;  
+    background-color: transparent;
+    box-shadow: none;
+    list-style: none;
+}
+
+#imagen{
+    width: 40x;
+    height: 50px;
+
+}
+
+#fila{
+    height: 10 px;
+}
+
+#col3{
+    background-color: yellow;
+
+}
+
+.nav-item{
+    font-family: monospace;
+    font-weight: bold;
+    color: black;
+}
+
+#info{
+    background-color: #f4f4f4;
+    height: 50px;
+}
+
+#titulo{
+    background: #b2dba1;
+}
+#analisi{
+    font-family: monospace;
+    font-weight: bold ;
+}
+
+#botonBuscar {
+
+
+    padding: 8px 16px;
+    text-align: center;
+
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+
+    cursor: pointer;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.button1 {
+
+}
+
+
+

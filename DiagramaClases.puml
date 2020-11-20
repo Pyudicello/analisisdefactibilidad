@@ -1,0 +1,12 @@
+@startuml
+class clases.Conexion
+class clases.Ubicacion
+class java.sql.Connection
+class java.sql.DriverManager
+class java.sql.SQLException
+class org.apache.coyote.http2.ConnectionException
+clases.Conexion ..> java.sql.Connection
+clases.Conexion ..> java.sql.DriverManager
+clases.Conexion ..> java.sql.SQLException
+clases.Conexion ..> org.apache.coyote.http2.ConnectionException
+@enduml
